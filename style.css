@@ -59,6 +59,11 @@ body {
     color: var(--dark);
 }
 
+.about_nav {
+    background-color: var(--indigo);
+    /* padding: .2rem; */
+}
+
 .nav_header {
     background-color: var(--cyan);
     align-items: center;
