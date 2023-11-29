@@ -58,3 +58,12 @@ body {
     font-size: 1.3rem;
     color: var(--dark);
 }
+
+.nav_header {
+    background-color: var(--cyan);
+    align-items: center;
+    padding: 1rem;
+}
+.gap {
+    gap: 1rem;
+}
