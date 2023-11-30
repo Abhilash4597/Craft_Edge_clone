@@ -72,3 +72,22 @@ body {
 .gap {
     gap: 1rem;
 }
+
+
+.footer_container {
+    background-color: var(--green);
+    padding: 6rem 4rem 4rem 4rem;
+    align-items: baseline;
+    color: white;
+}
+
+.location {
+    /* border: 1px solid black; */
+    width: 25%;
+}
+
+.border {
+    margin: 0 4rem;
+    padding: .5px 0;
+    background-color: black;
+}
