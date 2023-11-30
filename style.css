@@ -91,3 +91,11 @@ body {
     padding: .5px 0;
     background-color: black;
 }
+
+.copy_right {
+    padding: 2rem 4rem;
+}
+
+.copy_right p {
+    width: 50%;
+}
