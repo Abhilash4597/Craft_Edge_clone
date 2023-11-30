@@ -86,14 +86,21 @@ body {
     width: 25%;
 }
 
+/* .border {
+    background-color: var(--green);
+    border: none;
+} */
+
 .border {
     margin: 0 4rem;
-    padding: .5px 0;
-    background-color: black;
+    border: none;
+    padding: 1px 4rem;
+    background-color: var(--dark);
 }
 
 .copy_right {
     padding: 2rem 4rem;
+    background-color: var(--green);
 }
 
 .copy_right p {
