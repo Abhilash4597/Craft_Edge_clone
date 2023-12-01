@@ -106,3 +106,13 @@ body {
 .copy_right p {
     width: 50%;
 }
+
+.up_arrow {
+    position: fixed;
+    bottom: 2rem;
+    right: 2rem;
+    width: 30px;
+    height: 35px;
+    justify-content: center;
+    background-color: #20c997;
+}
