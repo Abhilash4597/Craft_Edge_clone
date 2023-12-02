@@ -113,6 +113,8 @@ body {
     right: 2rem;
     width: 30px;
     height: 35px;
+    text-decoration: none;
+    color: var(--gray-dark);
     justify-content: center;
     background-color: #20c997;
 }
