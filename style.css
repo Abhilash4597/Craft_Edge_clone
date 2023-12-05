@@ -47,6 +47,7 @@ body {
 .customer_service {
     text-align: right;
 }
+
 .customer_service p{
     font-size: 1rem;
     color: var(--gray);
@@ -69,6 +70,7 @@ body {
     align-items: center;
     padding: 1rem;
 }
+
 .gap {
     gap: 1rem;
 }
@@ -85,11 +87,6 @@ body {
     /* border: 1px solid black; */
     width: 25%;
 }
-
-/* .border {
-    background-color: var(--green);
-    border: none;
-} */
 
 .border {
     margin: 0 4rem;
@@ -117,4 +114,8 @@ body {
     color: var(--gray-dark);
     justify-content: center;
     background-color: #20c997;
+}
+
+.carousel-item img{
+    width: 50%;
 }
