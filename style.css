@@ -62,7 +62,6 @@ body {
 
 .about_nav {
     background-color: var(--indigo);
-    /* padding: .2rem; */
 }
 
 .nav_header {
@@ -84,7 +83,6 @@ body {
 }
 
 .location {
-    /* border: 1px solid black; */
     width: 25%;
 }
 
