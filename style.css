@@ -113,3 +113,11 @@ body {
     justify-content: center;
     background-color: #20c997;
 }
+
+.main_section {
+    width: 65%;
+}
+
+li{
+    list-style: none;
+}
